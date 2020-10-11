@@ -1,0 +1,13 @@
+C:\Users\Will Sampson\Documents\source\lexipos\kms\bin\Debug\netcoreapp3.1\kms.exe
+C:\Users\Will Sampson\Documents\source\lexipos\kms\bin\Debug\netcoreapp3.1\kms.deps.json
+C:\Users\Will Sampson\Documents\source\lexipos\kms\bin\Debug\netcoreapp3.1\kms.runtimeconfig.json
+C:\Users\Will Sampson\Documents\source\lexipos\kms\bin\Debug\netcoreapp3.1\kms.runtimeconfig.dev.json
+C:\Users\Will Sampson\Documents\source\lexipos\kms\bin\Debug\netcoreapp3.1\kms.dll
+C:\Users\Will Sampson\Documents\source\lexipos\kms\bin\Debug\netcoreapp3.1\kms.pdb
+C:\Users\Will Sampson\Documents\source\lexipos\kms\obj\Debug\netcoreapp3.1\kms.csprojAssemblyReference.cache
+C:\Users\Will Sampson\Documents\source\lexipos\kms\obj\Debug\netcoreapp3.1\kms.AssemblyInfoInputs.cache
+C:\Users\Will Sampson\Documents\source\lexipos\kms\obj\Debug\netcoreapp3.1\kms.AssemblyInfo.cs
+C:\Users\Will Sampson\Documents\source\lexipos\kms\obj\Debug\netcoreapp3.1\kms.csproj.CoreCompileInputs.cache
+C:\Users\Will Sampson\Documents\source\lexipos\kms\obj\Debug\netcoreapp3.1\kms.dll
+C:\Users\Will Sampson\Documents\source\lexipos\kms\obj\Debug\netcoreapp3.1\kms.pdb
+C:\Users\Will Sampson\Documents\source\lexipos\kms\obj\Debug\netcoreapp3.1\kms.genruntimeconfig.cache
